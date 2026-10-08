@@ -1,0 +1,12 @@
+{
+  "n_scenes": 77,
+  "ndvi_mean": {
+    "NDVI": 0.2912938230556215
+  },
+  "ndvi_minmax": {
+    "NDVI_max": 0.8964641531549131,
+    "NDVI_min": -0.47766843300529904
+  },
+  "period": "2025-07-01 to 2026-09-30",
+  "cloud_threshold_pct": 40
+}
