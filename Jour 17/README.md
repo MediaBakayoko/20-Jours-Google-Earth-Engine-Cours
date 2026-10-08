@@ -48,3 +48,7 @@ District d'Abidjan, Côte d'Ivoire — rectangle `[-4.20, 5.20, -3.80, 5.55]`
 
 ## Script
 Voir `scripts/urban_analysis_abidjan.js` (éditeur Google Earth Engine).
+
+## Article scientifique
+Voir [`ARTICLE.md`](./ARTICLE.md) — analyse complète (introduction, méthode,
+résultats, discussion, limites, références).

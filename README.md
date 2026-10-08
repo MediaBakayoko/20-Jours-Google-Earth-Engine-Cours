@@ -16,9 +16,9 @@ Chaque jour a son propre dossier `Jour N/` contenant :
 
 ## Sommaire des jours
 
-| Jour | Thème | Zone d'étude |
-|------|-------|--------------|
-| [Jour 17](./Jour%2017/) | Analyse urbaine — NDBI, bâti, lumières nocturnes VIIRS | District d'Abidjan, Côte d'Ivoire |
+| Jour | Thème | Zone d'étude | Article |
+|------|-------|--------------|---------|
+| [Jour 17](./Jour%2017/) | Analyse urbaine — NDBI, bâti, lumières nocturnes VIIRS | District d'Abidjan, Côte d'Ivoire | [ARTICLE.md](./Jour%2017/ARTICLE.md) |
 
 ## Méthodologie
 
