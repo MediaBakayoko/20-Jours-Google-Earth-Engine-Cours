@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "auteur": "Media Marcel Bakayoko",
+    "cours": "20 Jours Google Earth Engine",
+    "jour": 2,
+    "theme": "Concepts de base & JavaScript",
+    "zone": "District d'Abidjan"
+  },
+  "server_side_area_study_area_km2": 1723.4003202449953,
+  "server_side_area_polygon_km2": 110.79882514208803,
+  "server_side_line_length_km": 5.630957363241757,
+  "feature_count": 3
+}
