@@ -1,0 +1,14 @@
+{
+  "n_images_collection": 77,
+  "first_image_id": "20250702T102559_20250702T103813_T30NUL",
+  "first_image_date": "2025-07-02",
+  "first_image_cloud_pct": 28.939658,
+  "band_count_with_ndvi": 27,
+  "mosaic_band_count": 26,
+  "median_nir_mean": {
+    "B8": 2988.446457371231
+  },
+  "mosaic_nir_mean": {
+    "B8": 5652.999559344456
+  }
+}

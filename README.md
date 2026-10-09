@@ -20,6 +20,7 @@ Chaque jour a son propre dossier `Jour N/` contenant :
 |------|-------|--------------|---------|
 | [Jour 1](./Jour%201/) | Introduction à GEE — NDVI avec Sentinel-2 | District d'Abidjan, Côte d'Ivoire | [ARTICLE.md](./Jour%201/ARTICLE.md) |
 | [Jour 2](./Jour%202/) | Concepts de base — Geometry, Feature, FeatureCollection, client vs serveur | District d'Abidjan, Côte d'Ivoire | [ARTICLE.md](./Jour%202/ARTICLE.md) |
+| [Jour 3](./Jour%203/) | Image vs ImageCollection — mosaic vs median, addBands | District d'Abidjan, Côte d'Ivoire | [ARTICLE.md](./Jour%203/ARTICLE.md) |
 | [Jour 17](./Jour%2017/) | Analyse urbaine — NDBI, bâti, lumières nocturnes VIIRS | District d'Abidjan, Côte d'Ivoire | [ARTICLE.md](./Jour%2017/ARTICLE.md) |
 
 ## Méthodologie
