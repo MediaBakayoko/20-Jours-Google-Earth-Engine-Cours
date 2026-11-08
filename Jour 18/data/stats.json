@@ -1,0 +1,51 @@
+{
+  "zone_etude": "District d'Abidjan, Cote d'Ivoire",
+  "bbox": [
+    [
+      -4.2,
+      5.2
+    ],
+    [
+      -3.8,
+      5.55
+    ]
+  ],
+  "periode_composite": "2025-07-01 a 2026-09-30",
+  "n_scenes_sentinel2": 77,
+  "seuil_nuage_cloudy_pixel_pct": 40,
+  "seuil_cloud_score_plus": 0.65,
+  "resolution_export_m": 20,
+  "histogramme_seuillage_pixels": {
+    "0": 2388,
+    "1": 1232862.9490196062,
+    "2": 601077.8470588239,
+    "3": 472378.1686274515,
+    "4": 2028297.3176469952
+  },
+  "histogramme_kmeans_pixels": {
+    "0": 853792.1411764727,
+    "1": 1690714.4509803352,
+    "2": 966857.5176470594,
+    "3": 823252.1725490183
+  },
+  "surface_par_classe_seuillage_km2": {
+    "0": 0.96,
+    "1": 493.15,
+    "2": 240.43,
+    "3": 188.95,
+    "4": 811.32
+  },
+  "surface_par_classe_kmeans_km2": {
+    "0": 341.52,
+    "1": 676.29,
+    "2": 386.74,
+    "3": 329.3
+  },
+  "labels_classes_seuillage": {
+    "1": "Eau / sol nu / bati (NDVI < 0.1)",
+    "2": "Vegetation clairsemee (0.1-0.3)",
+    "3": "Vegetation moderee (0.3-0.5)",
+    "4": "Vegetation dense (NDVI >= 0.5)"
+  },
+  "avertissement_kmeans": "Les clusters KMeans sont non supervises -- leur numerotation (0,1,2,3) n'a aucune correspondance garantie avec les classes de seuillage NDVI (1-4). Une interpretation des clusters requiert une inspection visuelle/qualitative, jamais une correspondance numerique automatique."
+}
